@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#inventory img {
+    width: 64px;
+    height: 64px;
+    vertical-align: middle;
+}
+
+#inventory div {
+    border: 1px solid black;
+    float: left;
+    padding: 0px 20px 0px 20px;
+}
